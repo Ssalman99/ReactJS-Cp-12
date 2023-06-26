@@ -1,0 +1,16 @@
+/* Write your code here. */
+.list-img {
+  margin-left: 0px;
+  padding: 0px;
+}
+
+.button {
+  background-color: transparent;
+  border-style: none;
+  opacity: 0.5;
+}
+
+.act-button {
+  background-color: transparent;
+  border-style: none;
+}
